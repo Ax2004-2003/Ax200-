@@ -1,18 +1,18 @@
 {
-  "name": "Ternurin App",
-  "short_name": "Tenurin App",
+  "name": "System32 App",
+  "short_name": "System32 App",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#00d6ee",
+  "theme_color": "#00d7ee",
   "icons": [
     {
-      "src": "ternurin-192.png",
+      "src": "12.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "ternurin-512.png",
+      "src": "12.png",
       "sizes": "512x512",
       "type": "image/png"
     }
